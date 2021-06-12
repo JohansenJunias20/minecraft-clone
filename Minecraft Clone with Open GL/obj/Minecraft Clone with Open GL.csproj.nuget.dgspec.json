@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Minecraft Clone with Open GL\\Minecraft Clone with Open GL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Common\\Common.csproj",
+        "projectName": "LearnOpenTK.Common",
+        "projectPath": "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\c1419\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\c1419\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "OpenTK": {
+              "target": "Package",
+              "version": "[4.6.3, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Minecraft Clone with Open GL\\Minecraft Clone with Open GL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Minecraft Clone with Open GL\\Minecraft Clone with Open GL.csproj",
+        "projectName": "Minecraft Clone with Open GL",
+        "projectPath": "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Minecraft Clone with Open GL\\Minecraft Clone with Open GL.csproj",
+        "packagesPath": "C:\\Users\\c1419\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Minecraft Clone with Open GL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\c1419\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "OpenTK": {
+              "target": "Package",
+              "version": "[4.6.4, )"
+            },
+            "Websocket.Client": {
+              "target": "Package",
+              "version": "[4.3.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

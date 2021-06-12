@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "HVeJN9SHGN7L6jEnd1NAgsSU8aBlAuLx+VWXcAXNaek7oZMjtR10BYRYRbpEwxW/JBvKgSXfawo0btPzzLU5ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Minecraft Clone with Open GL\\Minecraft Clone with Open GL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\c1419\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk\\4.6.4\\opentk.4.6.4.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.compute\\4.6.4\\opentk.compute.4.6.4.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.core\\4.6.4\\opentk.core.4.6.4.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.graphics\\4.6.4\\opentk.graphics.4.6.4.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.input\\4.6.4\\opentk.input.4.6.4.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.mathematics\\4.6.4\\opentk.mathematics.4.6.4.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.openal\\4.6.4\\opentk.openal.4.6.4.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.windowing.common\\4.6.4\\opentk.windowing.common.4.6.4.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.windowing.desktop\\4.6.4\\opentk.windowing.desktop.4.6.4.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.6.4\\opentk.windowing.graphicslibraryframework.4.6.4.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\system.reactive\\4.3.2\\system.reactive.4.3.2.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\system.threading.channels\\4.7.0\\system.threading.channels.4.7.0.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\websocket.client\\4.3.32\\websocket.client.4.3.32.nupkg.sha512"
+  ],
+  "logs": []
+}

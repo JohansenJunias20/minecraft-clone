@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpwva3MWv3B3QfR8ztvz95GJXD0RMeouCsPy2yzDg8bAvL2rbVw6IZsPT1vvGDuUEtiAApnVJpG80lGYtefZZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\c1419\\source\\repos\\Minecraft Clone with Open GL\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\c1419\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk\\4.6.3\\opentk.4.6.3.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.compute\\4.6.3\\opentk.compute.4.6.3.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.core\\4.6.3\\opentk.core.4.6.3.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.graphics\\4.6.3\\opentk.graphics.4.6.3.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.input\\4.6.3\\opentk.input.4.6.3.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.mathematics\\4.6.3\\opentk.mathematics.4.6.3.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.openal\\4.6.3\\opentk.openal.4.6.3.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.windowing.common\\4.6.3\\opentk.windowing.common.4.6.3.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.windowing.desktop\\4.6.3\\opentk.windowing.desktop.4.6.3.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.6.3\\opentk.windowing.graphicslibraryframework.4.6.3.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\c1419\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

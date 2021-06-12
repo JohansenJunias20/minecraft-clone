@@ -1,0 +1,45 @@
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\Minecraft Clone with Open GL.exe
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\Minecraft Clone with Open GL.deps.json
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\Minecraft Clone with Open GL.runtimeconfig.json
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\Minecraft Clone with Open GL.runtimeconfig.dev.json
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\Minecraft Clone with Open GL.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\Minecraft Clone with Open GL.pdb
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\OpenTK.Compute.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\OpenTK.Core.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\OpenTK.Graphics.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\OpenTK.Input.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\OpenTK.Mathematics.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\OpenTK.OpenAL.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\OpenTK.Windowing.Common.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\Websocket.Client.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\System.Reactive.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\bin\Release\netcoreapp3.1\System.Reactive.xml
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\obj\Release\netcoreapp3.1\Minecraft Clone with Open GL.csprojAssemblyReference.cache
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\obj\Release\netcoreapp3.1\Minecraft Clone with Open GL.AssemblyInfoInputs.cache
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\obj\Release\netcoreapp3.1\Minecraft Clone with Open GL.AssemblyInfo.cs
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\obj\Release\netcoreapp3.1\Minecraft Clone with Open GL.csproj.CoreCompileInputs.cache
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\obj\Release\netcoreapp3.1\Minecraft Clone with Open GL.csproj.CopyComplete
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\obj\Release\netcoreapp3.1\Minecraft Clone with Open GL.dll
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\obj\Release\netcoreapp3.1\Minecraft Clone with Open GL.pdb
+C:\Users\c1419\source\repos\Minecraft Clone with Open GL\Minecraft Clone with Open GL\obj\Release\netcoreapp3.1\Minecraft Clone with Open GL.genruntimeconfig.cache
+\\139.180.210.69\sambashare\home\Release\netcoreapp3.1\netcoreapp3.1\Minecraft Clone with Open GL.exe
+\\139.180.210.69\sambashare\home\Release\netcoreapp3.1\netcoreapp3.1\Minecraft Clone with Open GL.deps.json
+\\139.180.210.69\sambashare\home\Release\netcoreapp3.1\netcoreapp3.1\Minecraft Clone with Open GL.runtimeconfig.json
+\\139.180.210.69\sambashare\home\Release\netcoreapp3.1\netcoreapp3.1\Minecraft Clone with Open GL.runtimeconfig.dev.json
+\\139.180.210.69\sambashare\home\Release\netcoreapp3.1\netcoreapp3.1\Minecraft Clone with Open GL.dll
+\\139.180.210.69\sambashare\home\Release\netcoreapp3.1\netcoreapp3.1\Minecraft Clone with Open GL.pdb
