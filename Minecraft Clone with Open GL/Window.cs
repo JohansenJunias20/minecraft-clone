@@ -21,6 +21,7 @@ namespace Minecraft_Clone_with_Open_GL
         //Mesh grass;
         //Mesh Steve;
         //Mesh ender;
+        bool NIGHT_MODE = true;
         Queue<string> JoinPlayers = new Queue<string>();
         Me.Me Me;
         Dictionary<string, Steve.Steve> Players = new System.Collections.Generic.Dictionary<string, Steve.Steve>();
@@ -320,6 +321,10 @@ namespace Minecraft_Clone_with_Open_GL
         int counterDummy = 0;
         bool onceTime = false;
         float[] quadVertices;
+        Vector3 skyColor = new Vector3(0f);
+        Vector3 nightSkyColor = new Vector3(0.1f, 0.2f, 0.3f);
+        Vector3 daySkyColor = new Vector3(153f / 255f, 204f / 255f, 255f / 255f);
+        float dayTransitionSpeed = 0.0003f;
         protected override void OnRenderFrame(FrameEventArgs args)
         {
 
@@ -425,8 +430,95 @@ namespace Minecraft_Clone_with_Open_GL
 
 
             //GL.Viewport(0, 0, Global.SCREEN.WIDTH, Global.SCREEN.HEIGHT);
-            GL.ClearColor(0.1f, 0.2f, 0.3f, 1.0f);
+            #region transition day night logic
+            if (NIGHT_MODE &&
+                (
+                !(skyColor.X >= nightSkyColor.X - 0.05f && skyColor.X <= nightSkyColor.X + 0.05f) ||
+                !(skyColor.Y >= nightSkyColor.Y - 0.05f && skyColor.Y <= nightSkyColor.Y + 0.05f) ||
+                !(skyColor.Z >= nightSkyColor.Z - 0.05f && skyColor.Z <= nightSkyColor.Z + 0.05f)
+                )
+               )
+            {
+                if (skyColor.X > nightSkyColor.X)
+                {
+                    skyColor.X -= dayTransitionSpeed;
+                }
+                else
+                {
+
+                    skyColor.X += dayTransitionSpeed;
+                }
+
+                if (skyColor.Y > nightSkyColor.Y)
+                {
+                    skyColor.Y -= dayTransitionSpeed;
+                }
+                else
+                {
+
+                    skyColor.Y += dayTransitionSpeed;
+                }
+
+                if (skyColor.Z > nightSkyColor.Z)
+                {
+                    skyColor.Z -= dayTransitionSpeed;
+                }
+                else
+                {
+
+                    skyColor.Z += dayTransitionSpeed;
+                }
+
+                GL.ClearColor(skyColor.X, skyColor.Y, skyColor.Z, 1.0f);
+
+
+            }
+
+            if (!NIGHT_MODE &&
+                (
+                !(skyColor.X >= daySkyColor.X - 0.05f && skyColor.X <= daySkyColor.X + 0.05f) ||
+                !(skyColor.Y >= daySkyColor.Y - 0.05f && skyColor.Y <= daySkyColor.Y + 0.05f) ||
+                !(skyColor.Z >= daySkyColor.Z - 0.05f && skyColor.Z <= daySkyColor.Z + 0.05f)
+                )
+               )
+            {
+                if (skyColor.X > daySkyColor.X)
+                {
+                    skyColor.X -= dayTransitionSpeed;
+                }
+                else
+                {
+
+                    skyColor.X += dayTransitionSpeed;
+                }
+
+                if (skyColor.Y > daySkyColor.Y)
+                {
+                    skyColor.Y -= dayTransitionSpeed;
+                }
+                else
+                {
+
+                    skyColor.Y += dayTransitionSpeed;
+                }
+
+                if (skyColor.Z > daySkyColor.Z)
+                {
+                    skyColor.Z -= dayTransitionSpeed;
+                }
+                else
+                {
+
+                    skyColor.Z += dayTransitionSpeed;
+                }
+
+                GL.ClearColor(skyColor.X, skyColor.Y, skyColor.Z, 1.0f);
+
+            }
+            GL.ClearColor(skyColor.X, skyColor.Y, skyColor.Z, 1.0f);
+            #endregion
             //GL.ClearColor(0.3f, 0.5f, 0.9f, 1.0f);
+
             GL.Clear(ClearBufferMask.ColorBufferBit | ClearBufferMask.DepthBufferBit);
 
             #region activate depth textures ASLI
@@ -746,6 +838,15 @@ namespace Minecraft_Clone_with_Open_GL
         {
             //Console.WriteLine(e.Key.ToString());
             base.OnKeyDown(e);
+        }
+
+        protected override void OnKeyUp(KeyboardKeyEventArgs e)
+        {
+            if (e.Key == Keys.Z)
+            {
+                NIGHT_MODE = !NIGHT_MODE;
+            }
+            base.OnKeyUp(e);
         }
 
         private bool _firstMove;
