@@ -21,3 +21,6 @@ Assets:
 License:
 CC Attribution-NonCommercial-ShareAlike
 
+Alfons Richardo
+Johansen Junias
+Justin Jonathan
