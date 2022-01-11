@@ -1,5 +1,6 @@
 # Minecraft-Clone-Client-Open-GL
 Minecraft Clone dengan OpenTK (subset of OpenGL)
+[Video Demo](https://youtu.be/a3KveVAo5V8)
 ![image](https://user-images.githubusercontent.com/79069577/123664739-d2808f00-d861-11eb-868b-67cb29ee3937.png)
 ![image](https://user-images.githubusercontent.com/79069577/123664638-b54bc080-d861-11eb-820c-fd113feb31eb.png)
 ![image](https://user-images.githubusercontent.com/79069577/123664768-d90f0680-d861-11eb-9e5a-70c89b162296.png)
@@ -21,6 +22,7 @@ Assets:
 License:
 CC Attribution-NonCommercial-ShareAlike
 
-Alfons Richardo
-Johansen Junias
-Justin Jonathan
+[Proposal](https://docs.google.com/document/d/1QxO6HNZzBnsQbZ4S8_uZC1xnF80m2otXX_K3htD35I8/edit?usp=sharing)
+Alfons Richardo  
+Johansen Junias  
+Justin Jonathan  
